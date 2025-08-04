@@ -20,9 +20,10 @@ python monitor.py
 
 **Rohit Dinde**  
 🎓 Computer Engineer, Pune University  
-🔗 [LinkedIn]((https://www.linkedin.com/in/rohitdinde))  
+🔗 [LinkedIn](https://www.linkedin.com/in/rohitdinde)  
 🐙 [GitHub](https://github.com/Rohit30Confluence)  
 📧 rohitdinde30@gmail.com
+
 
 
 
