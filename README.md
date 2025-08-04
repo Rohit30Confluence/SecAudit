@@ -19,10 +19,11 @@ python monitor.py
 ## 👨‍💻 Author
 
 **Rohit Dinde**  
-🎓 Computer Engineering, Pune University  
-🔗 [LinkedIn](https://www.linkedin.com/in/rohit-dinde-88542a26a)  
+🎓 Computer Engineer, Pune University  
+🔗 [LinkedIn]((https://www.linkedin.com/in/rohitdinde))  
 🐙 [GitHub](https://github.com/Rohit30Confluence)  
-📧 dinde.infosec@gmail.com
+📧 rohitdinde30@gmail.com
+
 
 
 
