@@ -12,5 +12,22 @@ SecAudit is a Python-based real-time monitoring tool for Linux systems. It detec
 - 📄 Exportable Logs in CSV & JSON
 
 ## 🚀 Usage
-```bash
 python monitor.py
+
+
+
+## 👨‍💻 Author
+
+**Rohit Dinde**  
+🎓 Computer Engineering, Pune University  
+🔗 [LinkedIn](https://www.linkedin.com/in/rohit-dinde-88542a26a)  
+🐙 [GitHub](https://github.com/Rohit30Confluence)  
+📧 dinde.infosec@gmail.com
+
+
+
+
+
+
+
+
