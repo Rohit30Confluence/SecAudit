@@ -1,0 +1,58 @@
+[
+    {
+        "timestamp": "2025-08-04T12:37:21.037377",
+        "message": "SecAudit started"
+    },
+    {
+        "timestamp": "2025-08-04T12:37:23.125200",
+        "message": "Suspicious process detected: PID=1026, Name=systemd, Reason=Orphaned process (parent is init)"
+    },
+    {
+        "timestamp": "2025-08-04T12:37:23.333924",
+        "message": "Suspicious process detected: PID=1045, Name=rtkit-daemon, Reason=Orphaned process (parent is init)"
+    },
+    {
+        "timestamp": "2025-08-04T12:37:23.438320",
+        "message": "Suspicious process detected: PID=1738, Name=freshclam, Reason=Orphaned process (parent is init)"
+    },
+    {
+        "timestamp": "2025-08-04T12:37:23.440631",
+        "message": "Suspicious process detected: PID=2026, Name=fwupd, Reason=Orphaned process (parent is init)"
+    },
+    {
+        "timestamp": "2025-08-04T12:37:23.441985",
+        "message": "Suspicious process detected: PID=2041, Name=upowerd, Reason=Orphaned process (parent is init)"
+    },
+    {
+        "timestamp": "2025-08-04T12:37:23.443376",
+        "message": "Suspicious process detected: PID=2047, Name=udisksd, Reason=Orphaned process (parent is init)"
+    },
+    {
+        "timestamp": "2025-08-04T12:40:13.723556",
+        "message": "SecAudit started"
+    },
+    {
+        "timestamp": "2025-08-04T12:40:15.811175",
+        "message": "Suspicious process detected: PID=1026, Name=systemd, Reason=Orphaned process (parent is init)"
+    },
+    {
+        "timestamp": "2025-08-04T12:40:16.021159",
+        "message": "Suspicious process detected: PID=1045, Name=rtkit-daemon, Reason=Orphaned process (parent is init)"
+    },
+    {
+        "timestamp": "2025-08-04T12:40:16.124830",
+        "message": "Suspicious process detected: PID=1738, Name=freshclam, Reason=Orphaned process (parent is init)"
+    },
+    {
+        "timestamp": "2025-08-04T12:40:16.127174",
+        "message": "Suspicious process detected: PID=2026, Name=fwupd, Reason=Orphaned process (parent is init)"
+    },
+    {
+        "timestamp": "2025-08-04T12:40:16.129413",
+        "message": "Suspicious process detected: PID=2041, Name=upowerd, Reason=Orphaned process (parent is init)"
+    },
+    {
+        "timestamp": "2025-08-04T12:40:16.130826",
+        "message": "Suspicious process detected: PID=2047, Name=udisksd, Reason=Orphaned process (parent is init)"
+    }
+]

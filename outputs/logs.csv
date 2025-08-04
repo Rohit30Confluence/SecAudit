@@ -1,0 +1,14 @@
+2025-08-04T12:37:21.037377,SecAudit started
+2025-08-04T12:37:23.125200,"Suspicious process detected: PID=1026, Name=systemd, Reason=Orphaned process (parent is init)"
+2025-08-04T12:37:23.333924,"Suspicious process detected: PID=1045, Name=rtkit-daemon, Reason=Orphaned process (parent is init)"
+2025-08-04T12:37:23.438320,"Suspicious process detected: PID=1738, Name=freshclam, Reason=Orphaned process (parent is init)"
+2025-08-04T12:37:23.440631,"Suspicious process detected: PID=2026, Name=fwupd, Reason=Orphaned process (parent is init)"
+2025-08-04T12:37:23.441985,"Suspicious process detected: PID=2041, Name=upowerd, Reason=Orphaned process (parent is init)"
+2025-08-04T12:37:23.443376,"Suspicious process detected: PID=2047, Name=udisksd, Reason=Orphaned process (parent is init)"
+2025-08-04T12:40:13.723556,SecAudit started
+2025-08-04T12:40:15.811175,"Suspicious process detected: PID=1026, Name=systemd, Reason=Orphaned process (parent is init)"
+2025-08-04T12:40:16.021159,"Suspicious process detected: PID=1045, Name=rtkit-daemon, Reason=Orphaned process (parent is init)"
+2025-08-04T12:40:16.124830,"Suspicious process detected: PID=1738, Name=freshclam, Reason=Orphaned process (parent is init)"
+2025-08-04T12:40:16.127174,"Suspicious process detected: PID=2026, Name=fwupd, Reason=Orphaned process (parent is init)"
+2025-08-04T12:40:16.129413,"Suspicious process detected: PID=2041, Name=upowerd, Reason=Orphaned process (parent is init)"
+2025-08-04T12:40:16.130826,"Suspicious process detected: PID=2047, Name=udisksd, Reason=Orphaned process (parent is init)"
